@@ -1,0 +1,13 @@
+{
+    "version": "1.2.3",
+    "files": [
+        {
+            "path": "System/Interface.xdat",
+            "checksum": "md5hash"
+        },
+        {
+            "path": "Animations/xyz.ukx",
+            "checksum": "md5hash"
+        }
+    ]
+}
